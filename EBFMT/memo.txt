@@ -1,0 +1,4 @@
+ Exposure Based Face Memory Test + hexaco scale.
+
+
+this dataset can use as hexaco dataset.

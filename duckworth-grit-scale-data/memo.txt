@@ -1,0 +1,7 @@
+big five scale + grit scale
+
+this dataset can use as big five dataset.
+
+grit scale's detail
+https://blogs.ubc.ca/e101/grit-survey/
+https://web.archive.org/web/20140306135217/https://sites.sas.upenn.edu/duckworth/pages/research
